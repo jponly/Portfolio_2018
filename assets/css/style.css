@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: rgb(145, 164, 168);
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  #nav {
+      background-color: gray;
+  }
+  #photo {
+      width: 15%;
+  }
+      
+ 
+
+#secondpage {
+
+   width: 100%;
+    height: 80%;
+   
+}
+#bio {
+    background-color:white;
+    border: 1px solid red;
+}
+#skills {
+    background-color:white;
+    border: 1px solid red;
+}
+
+#projectpages {
+    width: 100%;
+    height: 80%;
+    background-color: green;
+}
+
+#footers {
+    width: 100%;
+    background-color: grey;
+}
+#title {
+    margin-left:20%;
+}
