@@ -1,10 +1,24 @@
-$(document).ready(function() {
-    
+$(document).ready(function () {
+
     // event.preventDefault();
 
-    // Dropdown in nvabar
-    $(".dropdown-trigger").dropdown({ hover: false }); 
 
+
+    // Dropdown in navbar
+    $(".dropdown-trigger").dropdown({ hover: false });
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
@@ -13,8 +27,7 @@ $(document).ready(function() {
 
 
 });
-    
 
-   
 
- 
+
+
