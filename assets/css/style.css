@@ -15,6 +15,7 @@ body {
   }
   #photo {
       width: 15%;
+   
   }
   
 #secondpage {
@@ -24,18 +25,21 @@ body {
    
 }
 #bio {
-    background-color:white;
-    border: .5px solid black;
+    background-color:rgb(49, 73, 77);
+    border: .5px solid white;
+    color:white;
 }
 #skills {
-    background-color:white;
-    border: .5px solid black;
+    background-color:rgb(49, 73, 77);
+    border: .5px solid white;
+    color:white;
 }
 
 #projectpages {
     width: 100%;
     height: 80%;
-    background-color: rgb(90, 123, 129);
+    background-color: rgb(49, 73, 77);
+    color: white;
 }
 
 #footers {
@@ -51,15 +55,11 @@ body {
 #footernote {
     margin-left: 50%;
 }
-#github {
-    
-}
+
 #sociallink {
     margin-left:50%;
 }
-    #linkedins {
-       
-    }
+  
     #Marvel {
         width:20%;
     }
