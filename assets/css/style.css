@@ -69,11 +69,11 @@ body {
     background-color: grey;
 }
 #name {
-    margin-left:1%;
+    margin-left:5%;
     color: rgb(204, 199, 203);
 }
 #title {
-    margin-left:19.5%;
+    margin-left:23.5%;
     margin-bottom:3%;
     color:pink;
 }
@@ -140,4 +140,8 @@ body {
         width: 129%;
         height:-3%;
         
+    }
+    #thirdpage {
+        background-color:rgb(102, 139, 146);
+        box-shadow: 5px 5px 5px rgb(59, 59, 59);
     }
