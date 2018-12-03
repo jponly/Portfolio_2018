@@ -90,7 +90,7 @@ body {
         width:20%;
         margin-left:21%;
         margin-top:1.5%;
-        padding-bottom:.3%;
+       
     }
     #marvelPhoto {
         width: 100%;
@@ -103,7 +103,7 @@ body {
         float:right;
         margin-left:20%;
        margin-right:38%;
-       margin-top:-20.4%;
+       margin-top:-20%;
        padding-bottom:-4%;
     }
 
@@ -117,7 +117,7 @@ body {
         width:20%;
         float:right;
         margin-right:17%;
-        margin-top:-20.3%;
+        margin-top:-20%;
     }
     #burger {
         width: 99%;
