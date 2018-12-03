@@ -1,2 +1,2 @@
-# Portfolio_OCT2018
+# Portfolio_2018
 Updated portfolio with latest projects/github/linkedin
