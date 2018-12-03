@@ -1,2 +1,5 @@
 # Portfolio_2018
-Updated portfolio with latest projects/github/linkedin
+Updated portfolio with latest links to:
+ projects
+ github
+ linkedin
