@@ -12,7 +12,7 @@ body {
   #nav {
       background-color: gray;
       height: 113%;
-      box-shadow: 15px 15px 15px rgb(85, 84, 84);
+      box-shadow: -1px 15px 15px rgb(85, 84, 84);
   }
   #photo {
       width: 15%;
@@ -117,14 +117,14 @@ body {
         margin-top:-20.4%;
     }
     #burger {
-        width: 100%;
+        width: 99%;
         margin-bottom: 1%;
     }
     #FriendFind {
        clear: both;
         float:left;
         width:20%;
-        margin-top:-19.7%;
+        margin-top:-19.8%;
         margin-right:80%;
         margin-left: 21%;
     }
@@ -138,7 +138,7 @@ body {
         clear: both;
         float:right;
         width:20%;
-        margin-top:1%;
+        margin-top:-.4%;
         margin-right:38%;
         padding-top:-.1%;
         
