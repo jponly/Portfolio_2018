@@ -4,7 +4,6 @@ body {
     flex-direction: column;
     background-color: rgb(145, 164, 168);
   }
-
   main {
     flex: 1 0 auto;
   }
@@ -51,7 +50,7 @@ body {
     font-size: 120%;
 }
 #skills {
-    margin-left:7%;
+    margin-left:3%;
     padding-left: 2%;
     padding-bottom: 2%;
     background-color:rgb(102, 139, 146);
@@ -69,6 +68,7 @@ body {
 
 #footers {
     width: 100%;
+    margin-top:45%;
     background-color: grey;
 }
 #name {
@@ -90,9 +90,11 @@ body {
 }
   
     #Marvel {
+        float:right;
         width:20%;
-        margin-left:21%;
-        margin-top:1.5%;
+        margin-left:2%;
+        margin-right:53%;
+        margin-top:-20%;
        
     }
     #marvelPhoto {
@@ -103,10 +105,10 @@ body {
     #FantasyFootball {
         width:20%;
         height:-5%; 
-        float:right;
-        margin-left:20%;
+        float:left;
+        margin-left:5.5%;
        margin-right:38%;
-       margin-top:-20%;
+       margin-top:2%;
        padding-bottom:-4%;
     }
 
@@ -119,12 +121,13 @@ body {
         clear:both;
         width:20%;
         float:right;
-        margin-right:17%;
+        margin-right: 31.5%;
         margin-top:-20%;
     }
     #burger {
         width: 99%;
         margin-bottom: -1%;
+        float: left;
     }
     #Train {
         clear:both;
@@ -141,9 +144,9 @@ body {
        clear: both;
         float:left;
         width:20%;
-        margin-top:-19.5%;
-        margin-right:80%;
-        margin-left: 21%;
+        margin-top:.5%;
+        margin-right:33%;
+        margin-left: 5.4%;
     }
     #friendfind {
         width: 103%;
@@ -155,8 +158,8 @@ body {
         clear: both;
         float:right;
         width:20%;
-        margin-top:.18%;
-        margin-right:38%;
+        margin-top:-20%;
+        margin-right:10%;
      
         
     }
@@ -166,6 +169,7 @@ body {
         
     }
     #thirdpage {
-        background-color:rgb(102, 139, 146);
+        margin-bottom: 0px;
+        /* background-color:rgb(102, 139, 146); */
         /* box-shadow: 5px 5px 5px rgb(59, 59, 59); */
     }
