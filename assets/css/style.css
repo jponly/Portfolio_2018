@@ -12,7 +12,7 @@ body {
   #nav {
       background-color: gray;
       height: 113%;
-      box-shadow: 15px 15px 15px rgb(85, 84, 84);
+      box-shadow: 0px 15px 15px rgb(85, 84, 84);
   }
   #photo {
       width: 15%;
@@ -29,6 +29,7 @@ body {
 }
 #bio {
     margin-left:6%;
+    padding-bottom: 2%;
     background-color:rgb(102, 139, 146);
     /* border: .5px solid white; */
     box-shadow: 5px 5px 5px rgb(59, 59, 59);
@@ -50,7 +51,9 @@ body {
     font-size: 120%;
 }
 #skills {
-    margin-left:4%;
+    margin-left:7%;
+    padding-left: 2%;
+    padding-bottom: 2%;
     background-color:rgb(102, 139, 146);
     /* border: .5px solid white; */
     box-shadow: 5px 5px 5px rgb(59, 59, 59);
@@ -73,7 +76,7 @@ body {
     color: rgb(204, 199, 203);
 }
 #title {
-    margin-left:23.5%;
+    margin-left:40%;
     margin-bottom:3%;
     color:pink;
 }
