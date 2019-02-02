@@ -65,11 +65,16 @@ body {
     background-color:rgb(102, 139, 146);
     color: white;
 }
-
+#project-box {
+    background-color: rgb(145, 164, 168);
+}
 #footers {
     width: 100%;
-    margin-top:45%;
+    margin-top:50%;
     background-color: grey;
+}
+#footer-style {
+    background-color: gray;
 }
 #name {
     margin-left:5%;
@@ -82,7 +87,8 @@ body {
 }
 #footernote {
     margin-left: 50%;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
+    padding-top: 1%;
 }
 
 #sociallink {
