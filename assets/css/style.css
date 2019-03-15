@@ -81,9 +81,10 @@ body {
     color: rgb(204, 199, 203);
 }
 #title {
-    margin-left:40%;
+    margin-top: 5%;
     margin-bottom:3%;
-    color:pink;
+    margin-left: 23.5%;
+    color: yellow;
 }
 #footernote {
     margin-left: 50%;
