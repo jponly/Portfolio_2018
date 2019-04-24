@@ -34,6 +34,12 @@ body {
     box-shadow: 5px 5px 5px rgb(59, 59, 59);
     color:white;
 }
+#resume{
+    color: yellow;
+    margin-top: -34%;
+    padding-top: 10%;
+}
+
 #ab {
     color:white;
     margin-left:6%;
