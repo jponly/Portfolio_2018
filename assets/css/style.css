@@ -35,9 +35,11 @@ body {
     color:white;
 }
 #resume{
+    font-size:130%;
     color: yellow;
-    margin-top: -34%;
-    padding-top: 10%;
+    margin-top: .5%;
+    padding-top: 5%;
+    padding-bottom: 1%;
 }
 
 #ab {
@@ -106,7 +108,7 @@ body {
         float:right;
         width:20%;
         margin-left:2%;
-        margin-right:53%;
+        margin-right:52%;
         margin-top:-20%;
        
     }
@@ -132,9 +134,9 @@ body {
     }
     #Burger {
         clear:both;
-        width:20%;
+        width:20.1%;
         float:right;
-        margin-right: 31.5%;
+        margin-right: 30%;
         margin-top:-20%;
     }
     #burger {
@@ -170,9 +172,9 @@ body {
     #Bamazon {
         clear: both;
         float:right;
-        width:20%;
+        width:20.5%;
         margin-top:-20%;
-        margin-right:10%;
+        margin-right:7%;
      
         
     }
